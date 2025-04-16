@@ -22,3 +22,5 @@ Esta **landing page** tem como objetivo divulgar o projeto, apresentar seus bene
 ---
 
 ## 🌐 Acesse a landing page
+
+https://magalycl.github.io/ConsulteCT/
